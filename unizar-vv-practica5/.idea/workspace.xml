@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="4" />
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7bf9dfba-836b-4725-9f10-208c3dcd77c8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../pruebas-kata-Gilded-Rose.xlsx" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedIndex" value="3" />
+  </component>
+  <component name="ProjectId" id="28eMlnT6BwkVvSqSDZwM25AHctp" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
+    <property name="cidr.known.project.marker" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/GildedRose2/src" />
+    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.15174508" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\bosto\Desktop\VVP5\unizar-vv-practica5\GildedRose2\src" />
+      <recent name="C:\Users\bosto\Desktop\VVP5\unizar-vv-practica5\GildedRose1\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.All in GildedRose2">
+    <configuration name="All in GildedRose0" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="GildedRose0" />
+      <extension name="coverage" sample_coverage="false" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in GildedRose1" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="GildedRose1" />
+      <extension name="coverage" sample_coverage="false" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in GildedRose2" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="GildedRose2" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InventoryTest1" type="JUnit" factoryName="JUnit" temporary="true">
+      <module name="GildedRose1" />
+      <extension name="coverage" sample_coverage="false">
+        <pattern>
+          <option name="PATTERN" value="com.alexaitken.gildedrose.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.alexaitken.gildedrose" />
+      <option name="MAIN_CLASS_NAME" value="com.alexaitken.gildedrose.InventoryTest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.All in GildedRose2" />
+      <item itemvalue="JUnit.All in GildedRose0" />
+      <item itemvalue="JUnit.All in GildedRose1" />
+      <item itemvalue="JUnit.InventoryTest1" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.InventoryTest1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7bf9dfba-836b-4725-9f10-208c3dcd77c8" name="Default Changelist" comment="" />
+      <created>1651572754320</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1651572754320</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint suspend="THREAD" type="java-method">
+          <condition expression="quality == 51" language="JAVA" />
+          <url>file://$PROJECT_DIR$/GildedRose1/src/main/java/com/alexaitken/gildedrose/Item.java</url>
+          <line>39</line>
+          <properties class="com.alexaitken.gildedrose.Item" method="setQuality">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="java-method">
+          <condition expression="quality == 49 &amp;&amp; name.equals(&quot;Backstage passes to a TAFKAL80ETC concert&quot;)" language="JAVA" mode="CODE_FRAGMENT" />
+          <dependency master-id="0" />
+          <url>file://$PROJECT_DIR$/GildedRose1/src/main/java/com/alexaitken/gildedrose/Item.java</url>
+          <line>12</line>
+          <properties class="com.alexaitken.gildedrose.Item" method="&lt;init&gt;">
+            <option name="count-filter" value="3" />
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-method">
+          <condition expression="quality == 79 || quality == 23 || quality == 20 " language="JAVA" />
+          <url>file://$PROJECT_DIR$/GildedRose2/src/main/java/com/alexaitken/gildedrose/Item.java</url>
+          <line>39</line>
+          <properties class="com.alexaitken.gildedrose.Item" method="setQuality">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint suspend="NONE" type="java-field">
+          <condition expression="quality == 51" language="JAVA" />
+          <url>file://$PROJECT_DIR$/GildedRose1/src/main/java/com/alexaitken/gildedrose/Item.java</url>
+          <line>10</line>
+          <properties field="quality" class="com.alexaitken.gildedrose.Item" />
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/GildedRose1/src/test/java/com/alexaitken/gildedrose/InventoryTest.java</url>
+          <line>131</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/GildedRose1/src/test/java/com/alexaitken/gildedrose/InventoryTest.java</url>
+          <line>180</line>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/GildedRose2/src/test/java/com/alexaitken/gildedrose/InventoryTest.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+      </breakpoints>
+      <breakpoints-dialog>
+        <breakpoints-dialog>
+          <selected-grouping-rules>
+            <grouping-rule id="by-file" />
+          </selected-grouping-rules>
+        </breakpoints-dialog>
+      </breakpoints-dialog>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/unizar_vv_practica5$test0.ic" NAME="test0 Coverage Results" MODIFIED="1651579356027" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="true" />
+    <SUITE FILE_PATH="coverage/unizar_vv_practica5$All_in_GildedRose1.ic" NAME="All in GildedRose1 Coverage Results" MODIFIED="1652367757673" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="true" />
+    <SUITE FILE_PATH="coverage/unizar_vv_practica5$InventoryTest.ic" NAME="InventoryTest Coverage Results" MODIFIED="1651579433479" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>com.alexaitken.gildedrose.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/unizar_vv_practica5$All_in_GildedRose0.ic" NAME="All in GildedRose0 Coverage Results" MODIFIED="1652382176882" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="true" />
+  </component>
+</project>
